@@ -1,3 +1,11 @@
+NOTE: For Jokes model go to https://drive.google.com/a/berkeley.edu/file/d/1SuD8g0EzBSqUz4k3lSv2KsPjVDh1KF-N/view?usp=sharing
+
+Download the file, create a models folder in src/ and then unzip the contents of the zip file in to this directory (name e.g. "jokes") so you will have something that looks like src/models/jokes/*files
+
+
+
+
+
 
 Reference:  ["Beginner’s Guide to Retrain GPT-2 (117M) to Generate Custom Text Content"](https://medium.com/@ngwaifoong92/beginners-guide-to-retrain-gpt-2-117m-to-generate-custom-text-content-8bb5363d8b7f)
 
